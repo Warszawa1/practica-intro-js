@@ -1,0 +1,23 @@
+{
+  "name": "intro-js",
+  "version": "1.0.0",
+  "description": "classroom management challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Warszawa1/practica-intro-js.git"
+  },
+  "author": "Irene Antelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Warszawa1/practica-intro-js/issues"
+  },
+  "homepage": "https://github.com/Warszawa1/practica-intro-js#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline": "^1.3.0"
+  }
+}
